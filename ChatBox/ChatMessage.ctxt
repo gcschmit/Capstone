@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=type\ message
+comment0.target=ChatMessage(int,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getType()
+comment2.params=
+comment2.target=java.lang.String\ getMessage()
+numComments=3

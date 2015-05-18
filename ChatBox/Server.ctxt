@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=port
+comment0.target=Server(int)
+comment0.text=\n\ \ server\ constructor\ that\ receive\ the\ port\ to\ listen\ to\ for\ connection\ as\ parameter\n\ \ in\ console\n
+comment1.params=
+comment1.target=void\ start()
+comment2.params=
+comment2.target=void\ stop()
+comment2.text=\n\ For\ the\ GUI\ to\ stop\ the\ server\n
+comment3.params=msg
+comment3.target=void\ display(java.lang.String)
+comment3.text=\n\ Display\ an\ event\ (not\ a\ message)\ to\ the\ console\ or\ the\ GUI\n
+comment4.params=message
+comment4.target=void\ broadcast(java.lang.String)
+comment4.text=\n\ \ to\ broadcast\ a\ message\ to\ all\ Clients\n
+comment5.params=id
+comment5.target=void\ remove(int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\n\ \ To\ run\ as\ a\ console\ application\ just\ open\ a\ console\ window\ and\:\n\ >\ java\ Server\n\ >\ java\ Server\ portNumber\n\ If\ the\ port\ number\ is\ not\ specified\ 1500\ is\ used\n
+numComments=7
